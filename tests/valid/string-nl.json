@@ -1,4 +1,8 @@
 {
+    "nl_beg": {
+        "type": "string",
+        "value": "\nvalue"
+    },
     "nl_mid": {
         "type": "string",
         "value": "val\nue"
@@ -6,6 +10,10 @@
     "nl_end": {
         "type": "string",
         "value": "value\n"
+    },
+    "lit_nl_beg": {
+        "type": "string",
+        "value": "\\nvalue"
     },
     "lit_nl_end": {
         "type": "string",
